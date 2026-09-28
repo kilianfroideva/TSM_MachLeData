@@ -1,5 +1,5 @@
 # Data used to train the models
-data/
+data/prepared
 
 # Evaluation results
 evaluation/
